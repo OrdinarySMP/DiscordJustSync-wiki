@@ -28,4 +28,4 @@ Discord: JustSync allows message customization using the [Placeholder API](https
 
 Note: Check the config file for specific placeholder usage and functionality for each message type.
 
-For kick message customization, refer to [kick-message](Kick-messages).
+For kick message customization, refer to [[Kick Messages]].
