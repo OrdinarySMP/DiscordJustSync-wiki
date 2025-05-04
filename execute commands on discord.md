@@ -4,7 +4,7 @@ Discord commands can be executed directly through the console channel. This feat
 
 ## Setup
 
-1. Use the commandChannel for command execution (see [command logging](Command logging)).
+1. Use the commandChannel for command execution (see [[command logging|Command logging]]).
 2. Send commands with the specified prefix (`commands.commandPrefix`, default=`//`).
 3. Default commands: `/kill`, `/kick`, `/ban`, and `/stop`.
 
