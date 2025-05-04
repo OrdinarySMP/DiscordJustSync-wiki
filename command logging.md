@@ -2,7 +2,7 @@
 
 Discord-JustSync supports the logging of commands to one or more Discord channels.  \
 The main logging channel is defined with `commandLogChannel` inside the `commands` category. All executed commands will be logged to that channel. \
-[Executing commands from discord](execute commands on discord) is also possible.\
+[[Executing commands from Discord | execute commands from discord]] is also possible.\
 You can toggle the command logging with the `logCommandsInConsole` option. \
 It is possible to ignore commands with the `ignoredCommands` option. You can pass multiple commands like this: `ignoredCommands = ["me", "say"]` \
 Command blocks can be logged with the `logCommandBlockCommands` option. It is not recommended to enable this as it can hit the rate limit of Discord really fast.
