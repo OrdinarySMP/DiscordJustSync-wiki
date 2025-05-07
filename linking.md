@@ -3,7 +3,7 @@
 The mod supports custom whitelisting via discord.
 
 ## Linking Process
-By default, `linking.enableLinking` is set to true. When enabled, unlinked players attempting to join the server receive a unique code. They must use this code with the `/link code:<code>` command in Discord to connect their accounts and gain server access.
+By default, `linking.enableLinking` is set to true. When enabled, unlinked players attempting to join the server receive a unique code. They must use this code with the `/link code:<code>` command in Discord to connect their accounts and gain server access. This and other slash commands by the bot are local for your server and can be used in every channel (in which users have the discord permission to use them, by default all).
 
 ## Configuration Options
 - `linking.requiredRoles`: Set Discord role IDs required for linking permissions
@@ -12,6 +12,9 @@ By default, `linking.enableLinking` is set to true. When enabled, unlinked playe
 - `linking.linkCodeExpireMinutes`: Adjust link code expiration time (default: 10 min)
 - `linking.disallowTimeoutMembersToJoin`: Prevent Discord-timed-out members from joining the Minecraft server (default: true)
 - `linking.unlinkOnLeave`: Automatically unlink and kick players who leave the Discord server (default: true)
+
+#### More Configuration
+You can configure additional behaviour with the [[Floodgate Integration|Mod Integrations/Floodgate Integration]]
 
 ## Alt Account Management
 The mod supports linking alternative accounts:
