@@ -11,15 +11,14 @@
 4. On the right side of the page, click "Add Bot".
 
 The page should now display your newly created bot's information and settings:
-![Bot in developer portal](img/image.png)
+![Bot in developer portal](./image-1746631481083.png)
 
 On this page, enable at least shown intents:
-![intents](img/image-1.png)
-
+![intents](./image-1746631538773.png)
 ## 2. Invite your bot
 
 In the category `OAuth2` select `bot` and `applications.commands` in your OAuth2 URL Generator. And select needed permissions or simply administrator. 
-![permissions](image.png)
+![permissions](./image-1746631562610.png)
 Use the generated URL to invite your bot.
 
 Alternatively you can use following url which has all necessary permissions `https://discord.com/oauth2/authorize?client_id=1<client_id>&permissions=671108096&integration_type=0&scope=bot+applications.commands`. Just replace `<client_id>` with your client id.
