@@ -61,7 +61,7 @@ This mod has integrations for following mods:
 - [LuckPerms](https://modrinth.com/plugin/luckperms)
 - [Floodgate/Geyser](https://geysermc.org)
 
-Checkout the details on the [[Mod Integrations page]].
+Checkout the details on the [[Mod Integrations]] page.
 
 
 ## Problems and Suggestions
