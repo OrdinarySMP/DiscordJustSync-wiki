@@ -56,11 +56,13 @@ By default, there are these 4 commands: `stop`, `kill`, `kick`, `ban` but you ca
 The default command prefix is `//` so you can for example type `//kick Notch` to kick Notch from the minecraft server.
 
 ## Integrations
-### [Vanish](https://modrinth.com/mod/vanish)
-This mod has an integration for melius's vanish mod, so that this mod does not reveal vanished players.
+This mod has integrations for following mods:
+- [Vanish](https://modrinth.com/mod/vanish)
+- [LuckPerms](https://modrinth.com/plugin/luckperms)
+- [Floodgate/Geyser](https://geysermc.org)
 
-### [Luck Perms](https://modrinth.com/plugin/luckperms)
-This mod can add alt accounts to a luckperms group
+Checkout the details on the [[Mod Integrations page]].
+
 
 ## Problems and Suggestions
 If you encounter any problems or bugs or have a suggestion for this mod feel free to open an Issue on our GitHub repository.
