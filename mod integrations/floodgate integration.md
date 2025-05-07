@@ -4,6 +4,7 @@
 [Floodgate](https://modrinth.com/mod/floodgate) is a mod which you can install alongside [Geyser](https://geysermc.org/) to let players join on Bedrock edition without having a Java account.
 
 You can restricted players from either linking or joining with mixed account types (meaning java and bedrock). If players are not allowed to link, they will receive the configured response if they already have an account linked and are trying to link an account of different type.
+
 Restricting mixed account types to join will automatically disconnect players with the configured kick message if another one of their linked accounts is online and of different type.
 
 Both of these options can be bypassed with a list of discord roles.
