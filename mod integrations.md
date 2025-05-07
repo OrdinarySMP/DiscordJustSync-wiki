@@ -3,5 +3,5 @@
 Discord: JustSync has multiple integrations for other serverside mods:
 
 - [[LuckPerms Integration]]
-- Vanish Integration
+- [[Mod Integrations/Vanish Integration]]
 - Floodgate/Geyser Integration
